@@ -3,7 +3,7 @@
 
 • Mengubah DB_DATABASE di .env sesuai dengan nama database yang dibuat di phpmyadmin
 
-![](ss/1.PNG)
+![](ss/1.png)
 
 ![](ss/2.PNG)
 
