@@ -5,7 +5,7 @@
 
 ![](ss/1.PNG)
 
-![](ss/2.PNG)
+![](ss\2.PNG)
 
 • Buatlah 2 table rrs dan news dengan fitur migrations menggunakan syntax
 
